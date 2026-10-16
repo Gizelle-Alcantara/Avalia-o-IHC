@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "capacity": "C1",
+    "scenario": "Clientes acessam agendamento pelo celular, em deslocamento.",
+    "stem": "O projeto deve priorizar:",
+    "options": [
+      "Linguagem sem testes",
+      "Muitas funcionalidades",
+      "Preferência do desenvolvedor",
+      "Tarefas, necessidades e contexto",
+      "Tabelas do banco"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "capacity": "C1",
+    "scenario": "Portal atende estudantes frequentes e responsáveis ocasionais.",
+    "stem": "Decisão adequada:",
+    "options": [
+      "Clareza para ocasionais e eficiência para frequentes",
+      "Ocultar ajuda",
+      "Exigir memorização",
+      "Mudar funções sem aviso",
+      "Usar códigos internos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "capacity": "C1",
+    "scenario": "Usuários precisam reagendar atendimentos quando a rotina muda.",
+    "stem": "Isso descreve:",
+    "options": [
+      "Infraestrutura",
+      "Estética",
+      "Tarefa e necessidade do usuário",
+      "Segurança",
+      "Organização do código"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "capacity": "C2",
+    "scenario": "Clientes não percebem o horário selecionado.",
+    "stem": "Melhoria adequada:",
+    "options": [
+      "Retirar horários",
+      "Destaque e confirmação textual",
+      "Opções idênticas",
+      "Campo sem rótulo",
+      "Impedir revisão"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "capacity": "C2",
+    "scenario": "Ação Salvar muda de nome e posição entre telas.",
+    "stem": "A equipe deve:",
+    "options": [
+      "Adicionar etapas",
+      "Ocultar comandos",
+      "Cores aleatórias",
+      "Remover texto",
+      "Padronizar nome e posição"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 6,
+    "capacity": "C2",
+    "scenario": "Campo obrigatório vazio gera apenas 'Falha 305'.",
+    "stem": "Solução adequada:",
+    "options": [
+      "Mensagem compreensível e orientação",
+      "Manter código",
+      "Reiniciar sem aviso",
+      "Ocultar mensagem",
+      "Trocar fundo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "capacity": "C2",
+    "scenario": "Categorias de portal usam termos internos e estudantes não localizam declaração.",
+    "stem": "Ação apropriada:",
+    "options": [
+      "Animações",
+      "Hospedagem",
+      "Somente ícones",
+      "Revisar agrupamentos e rótulos",
+      "Reduzir fontes"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "capacity": "C2",
+    "scenario": "Equipe quer entender agrupamentos de matrícula, certificados e pagamentos.",
+    "stem": "Técnica adequada:",
+    "options": [
+      "Teste de conexão",
+      "Card sorting",
+      "Análise de memória",
+      "Compactação",
+      "Permissões"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "capacity": "C2",
+    "scenario": "O botão de confirmação não recebe foco pela tecla Tab.",
+    "stem": "Correção prioritária:",
+    "options": [
+      "Imagens",
+      "Banco",
+      "Arquivo CSS",
+      "Pasta",
+      "Operação por teclado"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 10,
+    "capacity": "C2",
+    "scenario": "Rótulos desaparecem quando usuário digita.",
+    "stem": "Solução apropriada:",
+    "options": [
+      "Diminuir texto",
+      "Remover instruções",
+      "Rótulos persistentes associados",
+      "Usar imagens",
+      "Exigir memória"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "capacity": "C2",
+    "scenario": "Equipe cria botões e campos reutilizáveis.",
+    "stem": "Benefício principal:",
+    "options": [
+      "Eliminar testes",
+      "Impedir adaptação",
+      "Substituir requisitos",
+      "Aumentar telas",
+      "Consistência visual e comportamental"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 12,
+    "capacity": "C3",
+    "scenario": "Equipe desenha estrutura simples de telas antes de programar.",
+    "stem": "Artefato:",
+    "options": [
+      "Wireframe de baixa fidelidade",
+      "Teste de carga",
+      "Diagrama de implantação",
+      "Manual de rede",
+      "Modelo físico"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "capacity": "C3",
+    "scenario": "Protótipo não permite corrigir data na revisão.",
+    "stem": "Deve-se:",
+    "options": [
+      "Eliminar revisão",
+      "Confirmar automaticamente",
+      "Impedir alteração",
+      "Permitir retorno e correção",
+      "Usar imagem estática"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "capacity": "C3",
+    "scenario": "Protótipo navegável simula agendamento sem banco real.",
+    "stem": "Uso adequado:",
+    "options": [
+      "Comprovar segurança",
+      "Avaliar fluxos e compreensão",
+      "Garantir servidor",
+      "Validar dados reais",
+      "Substituir sistema"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "capacity": "C4",
+    "scenario": "Moderador aponta botão e registra tarefa sem dificuldades.",
+    "stem": "Problema:",
+    "options": [
+      "Uso de protótipo",
+      "Sem cronômetro",
+      "Ambiente escolar",
+      "Botão de retorno",
+      "Interferência e registro inadequado"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 16,
+    "capacity": "C4",
+    "scenario": "Registros: 'interface ruim', 'usuário confuso', 'clicou duas vezes sem selecionar horário'.",
+    "stem": "Evidência objetiva:",
+    "options": [
+      "Interface ruim",
+      "Usuário confuso",
+      "Clicou duas vezes sem selecionar horário",
+      "Todas",
+      "Nenhuma"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "capacity": "C4",
+    "scenario": "Um problema bloqueia tarefa; outro é apenas estético.",
+    "stem": "Prioridade:",
+    "options": [
+      "Bloqueio com base nas evidências",
+      "Estética",
+      "Ignorar testes",
+      "Preferência pessoal",
+      "Igual prioridade"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "capacity": "C4",
+    "scenario": "Equipe destaca horário e quer verificar a melhoria.",
+    "stem": "Procedimento:",
+    "options": [
+      "Julgar beleza",
+      "Perguntar só à equipe",
+      "Contar linhas",
+      "Retestar tarefas e registrar",
+      "Remover seleção"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "capacity": "C2/C3",
+    "scenario": "Três cartões ficam cortados na tela do celular.",
+    "stem": "Adaptação:",
+    "options": [
+      "Diminuir fontes",
+      "Reorganizar em coluna",
+      "Manter três colunas",
+      "Ocultar nomes",
+      "Rolagem horizontal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "capacity": "C2/C3",
+    "scenario": "Equipe projeta para celular e amplia para tablet e desktop.",
+    "stem": "Abordagem:",
+    "options": [
+      "Layout fixo",
+      "Protótipo estático",
+      "Sem hierarquia",
+      "Armazenamento distribuído",
+      "Mobile first"
+    ],
+    "answer": 4
+  }
+]
